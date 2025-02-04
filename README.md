@@ -10,7 +10,7 @@ This project aims to predict whether a user session in an eCommerce platform wil
 
 ## Data set 
 ![Data](Images/data_samble.png)
-The dataset used in this project is **eCommerce behavior data from a multi-category store**, available on ![Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store). It contains user interactions such as:
+The dataset used in this project is **eCommerce behavior data from a multi-category store**, available on ![Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store?select=2019-Oct.csv). It contains user interactions such as:
 - **Views**: Product views
 - **Carts**: Additions to cart
 - **Purchases**: Completed purchases
